@@ -13,6 +13,8 @@ An encoder is parametarised as neural network, and it from input space into repr
 
 ## Experiments
 <a href="https://gyazo.com/a18ea7463c22780a123b9d438eade6e3"><img src="https://i.gyazo.com/a18ea7463c22780a123b9d438eade6e3.png" alt="Image from Gyazo" width="300"/></a>
+
+
 In this repository, I implement the few-shot learning experiments using MNIST. This task is a image completation as a 2D regression task. inputs context data point and complete image by predicting luck data point
 
 ## Usage
