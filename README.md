@@ -1,5 +1,5 @@
 # Neural Process
-This repository is pytorch based implementation of Neural Process.
+This repository is pytorch based implementation of Neural Process. paper is here: https://arxiv.org/abs/1807.01622
 
 
 Neural Process is a class of neural latent variable models. This models combine the best of Neural Network and Gaussian Process.
@@ -23,3 +23,6 @@ You can run experiments using Docker:
 docker-compose -f docker/docker-compose-cpu.yml build
 docker-compose -f docker/docker-compose-cpu.yml run experiment python3 experiment.py
 ```
+
+## Reference
+[1] M. Garnelo et al., “Neural Processes.”
