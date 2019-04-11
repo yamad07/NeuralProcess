@@ -1,5 +1,5 @@
 # Neural Process
-This repository is implementation of Neural Process.
+This repository is pytorch based implementation of Neural Process.
 
 
 Neural Process is a class of neural latent variable models. This models combine the best of Neural Network and Gaussian Process.
